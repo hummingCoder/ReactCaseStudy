@@ -1,0 +1,25 @@
+.Logo {
+    height:85px !important;
+    float: left !important;
+}
+
+.CenterStyle {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+
+}
+
+.onlyMobile {
+    visibility: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+    .onlyMobile {
+        visibility: visible;
+    }
+    .CenterStyle{
+        display: none;
+    }
+}
