@@ -10,7 +10,6 @@ import {calculateCreditAction, setResultAction} from "../../state/credit/actions
 
 const {Content} = Layout;
 
-
 export default () => {
 
     const dispatch = useDispatch();
@@ -42,9 +41,7 @@ export default () => {
         dispatch(setResultAction(null));
     };
     const onFinish = values => {
-        console.log(values);
         dispatch(calculateCreditAction(values));
-        console.log('Received values of form: ', values);
     };
     const [form] = Form.useForm();
 

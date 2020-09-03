@@ -24,7 +24,6 @@ export default () => {
             extra={[
                 <>
                     <Title level={5}>Limit :{result.creditAmount} </Title>
-
                 </>
             ]}
         />

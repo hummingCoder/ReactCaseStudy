@@ -11,29 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24296abb-94c4-4e93-9f3e-ad5cff5d12d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Header/index.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Main/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Main/Result/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helper/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/credit/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/credit/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/credit/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/credit/selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Main/Result/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main/Result/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +85,7 @@
       <workItem from="1598898875254" duration="4079000" />
       <workItem from="1598951236151" duration="20561000" />
       <workItem from="1599085383452" duration="9889000" />
-      <workItem from="1599140694884" duration="7063000" />
+      <workItem from="1599140694884" duration="7421000" />
     </task>
     <servers />
   </component>
@@ -160,10 +140,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="133" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599147661468" />
-    <state x="666" y="241" width="587" height="558" key="find.popup" timestamp="1599147743196">
+    <state x="666" y="241" width="587" height="558" key="find.popup" timestamp="1599148044491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="241" width="587" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599147743196" />
+    <state x="666" y="241" width="587" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599148044491" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1598966125882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
